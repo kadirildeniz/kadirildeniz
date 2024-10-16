@@ -1,6 +1,6 @@
 <div align="left"> 
     <samp> Hi, I'm Kadir </samp> <br/>
-    <samp> Junior Frontend Developer </samp> <br/>
+    <samp> Frontend Developer </samp> <br/>
     <samp> - Currently working on React and JavaScript </samp> <br>
     <samp> - I'm working on developing myself in the frontend field as best as I can. </samp>
  <div> 
